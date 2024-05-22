@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /
+
+Disallow: /index
+Disallow: /static/
+Disallow: /templates/
+Disallow: /data/*
+Disallow: /*.md
+Disallow: /*.cfg
+Disallow: /*.log
+Disallow: /*.py
+
+Sitemap: ToDo

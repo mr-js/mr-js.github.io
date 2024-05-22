@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Days';
+  src: local('Days'), local('Days'), url('fonts/Days.ttf') format('truetype');
+  /* font-weight: 400; */
+  /* font-style: normal; */
+}
+
+body {
+  font-family: 'Days';
+  /* font-size: 1.0rem; */
+}
+
+.container {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
